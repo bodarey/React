@@ -1,0 +1,17 @@
+{
+    "name": "react-ru-tutorial",
+    "version": "1.0.0",
+    "description": "React RU tutorial",
+    "main": "index.html",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "user",
+    "license": "MIT",
+    "devDependencies": {
+        "express": "^4.21.2"
+    },
+    "dependencies": {
+        "cors": "^2.8.5"
+    }
+}
